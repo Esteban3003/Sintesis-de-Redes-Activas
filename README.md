@@ -37,3 +37,16 @@
 - Simulaciones en LTSpice y análisis de respuesta en frecuencia.
 
 ---
+
+## 🎥 **Recursos Adicionales**
+Para ampliar el trabajo con simulaciones, se recomienda visualizar los siguientes videos:  
+▶️ *Simulación Montecarlo en LTSpice*  
+
+
+▶️ *Importación del AO LM324 en LTSpice*  
+
+
+▶️ *Importación del AO LM6181 en LTSpice*  
+
+
+---
