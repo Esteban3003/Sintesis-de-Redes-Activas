@@ -40,7 +40,7 @@
 
 ## 🎥 **Recursos Adicionales**
 Para ampliar el trabajo con simulaciones, se recomienda visualizar los siguientes videos:  
-▶️ [Simulación Montecarlo en LTSpice] 
+▶️ [Simulación Montecarlo en LTSpice](https://www.youtube.com/watch?v=i2DxuynpXs0)
 
 ▶️ [Importación del AO LM324 y el AO LM6181 en LTSpice](https://www.youtube.com/watch?v=t4iyLC7hYE8)
 
